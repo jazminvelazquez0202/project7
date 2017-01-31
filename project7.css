@@ -1,7 +1,26 @@
  #main-headline {
-	 
- text-align:center;
- 
- color: blue;
-    
- }
+	 text-align:center;
+ color: #000FF ;
+}
+h2 {
+  text-align: center ;
+}
+.place-description{
+	
+ color: #934ace ;
+	
+ font-style:oblique 
+}
+
+.top-favorite{
+  color: #bf2716;
+}
+
+.important-point {
+ text-decoration: underline ;
+}
+	  
+.emphasis{
+ font-style: italic;
+}
+  
