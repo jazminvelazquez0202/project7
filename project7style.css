@@ -7,11 +7,15 @@ h2 {
   text-align: center;
 }
 
-.person-description
+.person-description {
+   color: purple;
+}
 
 .place-description {
-      color: purple;
+      color: olive;
+      font-family: Verdana;
 }
+	      
 
 .top-favorite {
         font-weight: bold;
